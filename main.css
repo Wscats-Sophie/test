@@ -1,0 +1,13 @@
+.nav {
+  height: 200px;
+  width: 100px;
+  background: pink;
+  top: 100px;
+}
+.transition {
+-webkit-transition: top 100ms ease-in-out;
+-moz-transition: top 100ms ease-in-out;
+-khtml-transition: top 100ms ease-in-out;
+transition: top 100ms ease-in-out;
+}
+                                

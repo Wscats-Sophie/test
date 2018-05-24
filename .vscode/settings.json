@@ -1,0 +1,8 @@
+{
+    "less.compile": {
+        "sourceMap": false,
+        "compress": false,
+        "out": "../dist/css/test.css",
+        "main": "./test.less"
+    }
+}

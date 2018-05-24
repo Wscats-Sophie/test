@@ -1,0 +1,30 @@
+{
+  "name": "Test",
+  "description": "a test for myself",
+  "main": "less/test.less",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "sophie"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Wscats-Sophie/test.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+      "jquery": "^3.2.1",
+      "jquery-validation": "^1.17.0",
+      "bootstrap": "^3.3.7",
+      "bootstrap-datepicker": "bootstrap-3-datepicker#^1.7.1",
+      "blueimp-file-upload": "jquery-file-upload#^9.19.0",
+      "bootstrap-select": "^1.12.4"
+  }
+}
